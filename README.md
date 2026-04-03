@@ -23,3 +23,14 @@
 | ctf-skills | 解决CTF挑战的代理技能——网页漏洞利用、二进制文件破解、加密、逆向工程、取证、开源情报（OSINT）等 | [ctf-skills](https://github.com/ljagiello/ctf-skills) |
 | threat-modeling | 原生AI自动化软件风险分析技能。采用大型语言模型（LLM）驱动、代码优先的方法，进行全面的安全风险评估、威胁建模、安全测试、渗透测试和合规性检查。 | [threat-modeling](https://github.com/fr33d3m0n/threat-modeling) |
 | pentest-skills | 告别复杂的命令行，用自然语言完成专业渗透测试。你只需描述测试目标，Claude Code 会自动选择合适的工具、执行命令、分析结果。 | [pentest-skills](https://github.com/crazyMarky/pentest-skills) |
+<br/><br/>
+## 关注我们
+
+<div align="center">
+
+<img src="gzh.png" width="280" alt="道一安全公众号">
+
+**本项目由道一安全创建维护**<br>
+扫码关注公众号，获取更多安全资讯
+
+</div>
