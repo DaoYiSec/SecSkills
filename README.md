@@ -1,6 +1,9 @@
 # SecSkills
 收集整理渗透测试、代码审计、CTF 等网络安全相关的 Skills
 <br/><br/><br/><br/><br/>
+
+# 安全相关
+<br/>
 | 名称 | 描述 | 链接 |
 |------|------|------|
 | java-audit-skills | 专注于 Java 代码审计的 Claude Skills 集合，提供自动化源码分析、路由提取、参数映射等功能，辅助安全研究人员和开发者进行 Java Web 应用的安全审计工作。 | [java-audit-skills](https://github.com/RuoJi6/java-audit-skills) |
@@ -26,6 +29,25 @@
 | AutoSongshu Agent (自动松鼠) | AutoSongshu 是一个自动化 Web 渗透测试辅助 Agent。它旨在通过大语言模型（LLM）的推理能力，结合浏览器自动化和安全扫描工具，为安全工程师提供一个“半自动驾驶”的渗透测试工作台。 | [AutoSongshu Agent](https://github.com/Cian233/AutoSongshu) |
 |  sec-skills | 安全研究 Skills 仓库，专注于防御性安全研究工具集。 | [sec-skills](https://github.com/Rvn0xsy/sec-skills?tab=readme-ov-file) |
 <br/><br/>
+
+# 娱乐相关
+<br/>
+
+| 名称 | 描述 | 链接 |
+|------|------|------|
+| 同事.skill | 将冰冷的离别化为温暖的 Skill，欢迎加入赛博永生！ | [同事.skill](https://github.com/titanwings/colleague-skill) |
+| 女娲.skill | 女娲帮你蒸馏任何人的思维方式，让乔布斯、马斯克、芒格、费曼都给你打工。 | [女娲.skill](https://github.com/alchaincyf/nuwa-skill) |
+| X导师.skill | X导师.skill — 女娲的第一个「非人类」作品。蒸馏6位顶级X创作者方法论 + 开源算法数据，提炼完整的选题-写作-增长操作手册。Made with 女娲.skill| [X导师.skill](https://github.com/alchaincyf/x-mentor-skill) |
+| 老板.skill | 老板.skills. 把老板炼入token，把生产力的解放留给自己。| [老板.skill](https://github.com/vogtsw/boss-skills) |
+| 前任.skill | 把前任蒸馏成 AI Skill，用ta的方式跟你说话。 | [前任.skill](https://github.com/therealXiaomanChu/ex-skill) |
+| 自己.skill | 与其蒸馏别人，不如蒸馏自己。欢迎加入数字永生！ | [自己.skill](https://github.com/notdog1998/yourself-skill) |
+| 博主.skill | 咱要的是情绪价值，不是具体的人！ | [博主.skill](https://github.com/YourongZhou/chat_with_me) |
+| 反蒸馏 Skill（anti-distill） | 反蒸馏 Skill：清洗你被迫写的 Skill 文件，看起来完整，核心知识留给自己。Anti-distillation for employee Skills. | [反蒸馏 Skill](https://github.com/leilei926524-tech/anti-distill) |
+| 赛博算命 Skill | 基于 Claude Code 的八字排盘与命理分析工具。通过交互式对话收集出生信息，排出四柱八字，参照九本经典命理典籍进行专业分析。 | [赛博算命 Skill](https://github.com/jinchenma94/bazi-skill) |
+| 月老 · 姻缘测算 Skills | Claude Code 姻缘测算技能 —— 赛博月老，用中华传统术数帮你算姻缘 | [月老 · 姻缘测算 Skills](https://github.com/Ming-H/yinyuan-skills) |
+| Numerologist Skills | 本项目致力于通过“工程化”手段，让大语言模型（LLM）精准理解和应用传统东方术数（如奇门遁甲、紫微斗数）。 | [Numerologist Skills](https://github.com/FANzR-arch/Numerologist_skills) |
+| Master-skill | 基于佛教经典文献的汉传祖师大德教学角色生成器 | [Master-skill](https://github.com/xr843/Master-skill) |
+
 ## 关注我们
 
 <div align="center">
