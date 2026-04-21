@@ -1,9 +1,9 @@
 # SecSkills
 收集整理渗透测试、代码审计、CTF 等网络安全相关的 Skills
 
-### 📌 分类目录 (共计 53 个)
+### 📌 分类目录 (共计 54 个)
 * [代码审计 12](#代码审计)
-* [渗透测试、漏洞扫描 13](#渗透测试漏洞扫描)
+* [渗透测试、漏洞扫描 14](#渗透测试漏洞扫描)
 * [JS逆向 2](#js逆向)
 * [skills检查 2](#skills检查)
 * [样本分析 1](#样本分析)
@@ -44,6 +44,7 @@
 
 | 名称 | 描述 | 链接 |
 |------|------|------|
+| HACK.SKILLS - Agent 的黑客武装 | 这是一个面向 Agent 的安全技能知识库，覆盖 Web 安全、API 安全、认证与授权、操作系统提权（Linux/Windows/macOS）、Active Directory 攻击、移动安全、二进制漏洞利用（Pwn）、逆向工程、密码学攻击、区块链与智能合约安全、AI/ML 与 LLM 安全、网络协议与横向移动、数字取证——服务于漏洞赏金、渗透测试、CTF 竞赛和授权安全研究。 | [HACK.SKILLS - Agent 的黑客武装](https://github.com/yaklang/hack-skills/blob/main/README_CN.md) |
 | Sec-Skills | 网络安全相关的大模型skill | [Sec-Skills](https://github.com/boqiqibo/Sec-Skills) |
 | secknowledge-skill | 一个为 Claude Code / Cursor 打造的安全测试专家技能（Skill），将 88,636 个真实漏洞案例、5,600+ 篇安全研究文档、150 条 AI 安全风险、OWASP LLM/ASI/WSTG和常用 200+安全测试用例浓缩为可即时调用的渗透测试知识库。 | [secknowledge-skill](https://github.com/Pa55w0rd/secknowledge-skill) |
 | SkillSemgrep | Claude Code安全扫描Skill：说句中文就能扫漏洞，基于Semgrep \| Security scanning skill for Claude Code, powered by Semgrep | [SkillSemgrep](https://github.com/KimYx0207/SkillSemgrep) |
