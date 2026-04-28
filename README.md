@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/daoyisec-secskills-badge.png)](https://mseep.ai/app/daoyisec-secskills)
+
 # SecSkills
 收集整理渗透测试、漏洞扫描、代码审计、CTF、逆向、安全研究 等网络安全相关的 Skills和MCP
 
