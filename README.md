@@ -161,6 +161,7 @@ https://ai.daoyivip.com/  注册可获得余额 低价模型中转站
 
 | 名称 | 描述 | 链接 |
 |------|------|------|
+| Dark-Moon | 开源的AI自主渗透测试平台，内置MCP服务器，覆盖Web/API/Active Directory/Kubernetes，集成50+安全工具 | [Dark-Moon](https://github.com/ASCIT31/Dark-Moon) |
 | SO Analyzer MCP | Native库（SO文件）分析工具，支持Flutter应用抓包。免费开源的IDA Pro替代品！ | [SO Analyzer MCP](https://github.com/1600822305/so-analyzer-mcp) |
 
 <br/>
