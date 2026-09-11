@@ -6,10 +6,10 @@ https://ai.daoyivip.com/  注册可获得余额 低价模型中转站
 # SecSkills
 收集整理渗透测试、漏洞扫描、代码审计、CTF、逆向、安全研究 等网络安全相关的 Skills和MCP
 
-### 📌 分类目录 (共计 100 个)
+### 📌 分类目录 (共计 102 个)
 * [Agent 46](#agent)
 * [代码审计 12](#代码审计)
-* [渗透测试、漏洞扫描 14](#渗透测试漏洞扫描)
+* [渗透测试、漏洞扫描 16](#渗透测试漏洞扫描)
 * [JS逆向 2](#js逆向)
 * [skills检查 2](#skills检查)
 * [样本分析 1](#样本分析)
@@ -117,6 +117,8 @@ https://ai.daoyivip.com/  注册可获得余额 低价模型中转站
 | Nmap Pentest Scans | 规划并协调授权的 Nmap 主机发现、端口和服务枚举、NSE 分析及范围内目标的报告成果。 | [Nmap Pentest Scans](https://clawhub.ai/0x-professor/nmap-pentest-scans) |
 | Security Scanner | 为网络应用、API 和基础设施提供自动化安全扫描和漏洞检测。当你需要扫描目标漏洞、检查 SSL 证书、寻找未开放端口、检测配置错误或进行安全审计时使用。可集成 nmap、nuclei 及其他安全工具。 | [Security Scanner](https://clawhub.ai/dmx64/security-scanner) |
 | DeFiHackLabs-skill | 基于 DeFiHackLabs 的真实攻击案例与复现资料，沉淀出可复用的漏洞分析流程、分类方法与防御要点，便于安全研究、审计与快速定位问题。 | [DeFiHackLabs-skill](https://github.com/HToTH/DeFiHackLabs-skill) |
+| Anthropic-Cybersecurity-Skills | 🔥 全球最大开源网安 Agent Skill 库，817 个结构化技能覆盖 29 大安全域（红队/渗透/云安全/取证/威胁狩猎等），业界唯一六框架映射（ATT&CK/NIST CSF/ATLAS/D3FEND/AI RMF/F3），兼容 20+ 平台，社区非官方项目 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) |
+| awesome-skills-security | 基于 SecLists 精选打包为 7 类技能（Fuzzing/密码字典/敏感模式/Payload/用户名/Webshell/LLM 测试），兼容 60+ Agent，一键安装 | [Eyadkelleh/awesome-skills-security](https://github.com/Eyadkelleh/awesome-skills-security) |
 
 <br/>
 
@@ -167,7 +169,7 @@ https://ai.daoyivip.com/  注册可获得余额 低价模型中转站
 
 | 名称 | 描述 | 链接 |
 |------|------|------|
-| ctf-skills | 解决CTF挑战的代理技能——网页漏洞利用、二进制文件破解、加密、逆向工程、取证、开源情报（OSINT）等 | [ctf-skills](https://github.com/ljagiello/ctf-skills) |
+| ctf-skills | 解决 CTF 挑战的代理技能，覆盖 Web/Pwn/密码学/逆向工程/取证/OSINT/恶意软件/AI-ML 等 10 大类，内置 `solve-challenge` 总调度器自动分发题型 | [ctf-skills](https://github.com/ljagiello/ctf-skills) |
 
 <br/>
 
@@ -254,3 +256,7 @@ https://ai.daoyivip.com/  注册可获得余额 低价模型中转站
 扫码关注公众号，获取更多安全资讯
 <img src="gzh.png" width="2739" height="969" alt="道一安全公众号">
 </div>
+
+---
+
+部分内容来源：https://github.com/Yeti-791/Awesome-Offensive-AI-Agentic-Landscape
