@@ -1,12 +1,13 @@
 [![MseeP.ai Security Assessment Badge](https://mseep.net/pr/daoyisec-secskills-badge.png)](https://mseep.ai/app/daoyisec-secskills)
 
-#中转站推荐
+# 中转站推荐
 https://ai.daoyivip.com/  注册可获得余额 低价模型中转站
 
 # SecSkills
 收集整理渗透测试、漏洞扫描、代码审计、CTF、逆向、安全研究 等网络安全相关的 Skills和MCP
 
-### 📌 分类目录 (共计 54 个)
+### 📌 分类目录 (共计 100 个)
+* [Agent 46](#agent)
 * [代码审计 12](#代码审计)
 * [渗透测试、漏洞扫描 14](#渗透测试漏洞扫描)
 * [JS逆向 2](#js逆向)
@@ -25,6 +26,59 @@ https://ai.daoyivip.com/  注册可获得余额 低价模型中转站
 * [娱乐 12](#娱乐)
 
 ---
+
+## Agent
+
+| 名称 | 描述 | 链接 |
+|------|------|------|
+| strix | 开源 AI 黑客，发现并修复应用漏洞（🚀 一个多月 Star 从 41k 飙升至 60k，反超 shannon 登顶） | [usestrix/strix](https://github.com/usestrix/strix) |
+| shannon | 面向 Web 应用和 API 的自主白盒 AI 渗透测试工具 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) |
+| pentagi | 全自主 AI 代理系统，执行复杂渗透测试任务 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) |
+| PentestGPT | LLM 驱动的自动化渗透测试代理框架（早期标杆） | [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) |
+| hexstrike-ai | MCP 服务器，让 AI Agent 自主运行 150+ 安全工具 | [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) |
+| cai | Cybersecurity AI（CAI）安全框架（已于 2026-08-28 归档，曾产出 18 篇论文、30+ CVE） | [aliasrobotics/cai](https://github.com/aliasrobotics/cai) |
+| CyberStrikeAI | Go 构建的 AI 原生安全测试平台 | [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) |
+| T3MP3ST | 自主红队平台 / 多智能体进攻性安全元框架，复用本机 AI 编码代理（Claude Code/Codex/Ollama 等）作零日漏洞猎手 | [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST) |
+| Nettacker | OWASP 自动化渗透测试 / 漏扫框架 | [OWASP/Nettacker](https://github.com/OWASP/Nettacker) |
+| pentestagent | 黑盒安全测试 AI Agent 框架（GHOSTCREW） | [GH05TCREW/pentestagent](https://github.com/GH05TCREW/pentestagent) |
+| Cairn | 通用状态空间搜索引擎，自主渗透 | [oritera/Cairn](https://github.com/oritera/Cairn) |
+| redamon | AI 驱动的代理式红队框架 | [samugit83/redamon](https://github.com/samugit83/redamon) |
+| Pentest-Swarm-AI | 首个"蜂群"架构自主渗透平台，信息素黑板去中心化协作，ReAct 推理 + 5 种蜂群剧本，支持 Claude API / Ollama 本地，含 MCP 服务器 | [Armur-Ai/Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI) |
+| pentest-ai-agents | 将 Claude Code 转为攻击性安全研究助手 | [0xSteph/pentest-ai-agents](https://github.com/0xSteph/pentest-ai-agents) |
+| CyberStrike | AI 驱动的进攻性安全代理，7,300+ 安全技能，基于 MITRE ATT&CK / CIS / OWASP / NIST，含网站 cyberstrike.io | [CyberStrikeus/CyberStrike](https://github.com/CyberStrikeus/CyberStrike) |
+| guardian-cli | 生产级 AI 渗透 CLI（Gemini + LangChain） | [zakirkun/guardian-cli](https://github.com/zakirkun/guardian-cli) |
+| pentest-ai | MCP 服务器封装 205+ 安全工具 + 17 个专业代理 + 确定性漏洞验证（零误报），CLI + MCP 双路径，自带 LLM | [0xSteph/pentest-ai](https://github.com/0xSteph/pentest-ai) |
+| AutoPentestX | 自动化渗透测试与漏洞报告 | [Gowtham-Darkseid/AutoPentestX](https://github.com/Gowtham-Darkseid/AutoPentestX) |
+| pentest-copilot | 浏览器端的道德黑客辅助工具 | [bugbasesecurity/pentest-copilot](https://github.com/bugbasesecurity/pentest-copilot) |
+| LuaN1aoAgent | 全自主 AI 渗透 Agent，XBOW >90%（广州大学） | [SanMuzZzZz/LuaN1aoAgent](https://github.com/SanMuzZzZz/LuaN1aoAgent) |
+| PentesterFlow/agent | 终端内 Agentic 进攻性安全，"人在回路中"，内置 OWASP Top 10 技能 + Burp 集成 + 覆盖率跟踪 | [PentesterFlow/agent](https://github.com/PentesterFlow/agent) |
+| hackingBuddyGPT | 50 行代码内调用 LLM 协助伦理黑客 | [ipa-lab/hackingBuddyGPT](https://github.com/ipa-lab/hackingBuddyGPT) |
+| nebula | AI 渗透助手，自动侦察 / 笔记 / 漏洞分析 | [berylliumsec/nebula](https://github.com/berylliumsec/nebula) |
+| agentic-radar | LLM Agentic 工作流安全扫描器（OpenAI Agents、CrewAI、LangGraph 等） | [splx-ai/agentic-radar](https://github.com/splx-ai/agentic-radar) |
+| xalgorix | 开源 AI 渗透测试 Agent | [xalgord/xalgorix](https://github.com/xalgord/xalgorix) |
+| Dark-Moon | AI 驱动的自主渗透测试引擎，覆盖 Web/云/AD/K8s，多智能体编排 + 隐私网关 + 50+ 工具集成 | [ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) |
+| ctf-agent | 自主 CTF solver，BSidesSF 2026 第一名 | [verialabs/ctf-agent](https://github.com/verialabs/ctf-agent) |
+| Cyber-AutoAgent | XBOW 验证基准 85%，已归档但代表性强 | [westonbrown/Cyber-AutoAgent](https://github.com/westonbrown/Cyber-AutoAgent) |
+| EVA | AI 辅助渗透测试代理，多后端 AI 集成 | [ARCANGEL0/EVA](https://github.com/ARCANGEL0/EVA) |
+| BreachWeave | Manager/Observer/Solver 多角色架构（腾讯云黑客松第二期线下决赛一等奖，排名 1/613） | [m-sec-org/BreachWeave](https://github.com/m-sec-org/BreachWeave) |
+| communitytools | 开源 Claude Code skills/agents/slash command | [transilienceai/communitytools](https://github.com/transilienceai/communitytools) |
+| BoxPwnr | HackTheBox / TryHackMe / picoCTF / Cybench / XBOW 等 15 个平台基准框架 | [0ca/BoxPwnr](https://github.com/0ca/BoxPwnr) |
+| AutoPentest-DRL | 使用深度强化学习的自动化渗透测试 | [crond-jaist/AutoPentest-DRL](https://github.com/crond-jaist/AutoPentest-DRL) |
+| Zen-Ai-Pentest | 多代理 AI 渗透框架 + 合规报告 | [SHAdd0WTAka/Zen-Ai-Pentest](https://github.com/SHAdd0WTAka/Zen-Ai-Pentest) |
+| HackSynth | Planner + Summarizer 双模块，PicoCTF / OverTheWire 200 题（arXiv:2412.01778） | [aielte-research/HackSynth](https://github.com/aielte-research/HackSynth) |
+| deadend-cli（原 xoxruns） | XBOW 黑盒 81%，约 $122 API 成本，本地化执行 | [straylabs-ai/deadend-cli](https://github.com/straylabs-ai/deadend-cli) |
+| BugTrace-AI | 漏洞追踪工具（已归档，演进为 BugTraceAI v2） | [yz9yt/BugTrace-AI](https://github.com/yz9yt/BugTrace-AI) |
+| seclab-taskflow-agent | GitHub Security Lab 出品，YAML 驱动多 Agent + CodeQL | [GitHubSecurityLab/seclab-taskflow-agent](https://github.com/GitHubSecurityLab/seclab-taskflow-agent) |
+| VulnBot | 多代理协作框架的自主渗透测试 | [KHenryAegis/VulnBot](https://github.com/KHenryAegis/VulnBot) |
+| tinyctfer | antix 微型意图运行时 + 元工具设计（腾讯云黑客松第 4 名核心代码） | [chainreactors/tinyctfer](https://github.com/chainreactors/tinyctfer) |
+| nyuctf_agents | NYU CTF Bench 配套的 D-CIPHER + Baseline | [NYU-LLM-CTF/nyuctf_agents](https://github.com/NYU-LLM-CTF/nyuctf_agents) |
+| AI-OPS | 基于开源 LLM 的渗透测试 AI 助手 | [antoninoLorenzo/AI-OPS](https://github.com/antoninoLorenzo/AI-OPS) |
+| cochise | 自主 Assumed Breach AD 渗透（TOSEM 2025） | [andreashappe/cochise](https://github.com/andreashappe/cochise) |
+| mapta | 多 Agent Web 应用安全评估 + 端到端漏洞利用验证（arXiv:2508.20816） | [arthurgervais/mapta](https://github.com/arthurgervais/mapta) |
+| AI-VAPT | 自主 AI 漏洞评估与渗透测试框架 | [vikramrajkumarmajji/AI-VAPT](https://github.com/vikramrajkumarmajji/AI-VAPT) |
+| Cyber-Zero | 无运行时训练网络安全代理（Amazon Science，已于 2026-07-10 归档） | [amazon-science/Cyber-Zero](https://github.com/amazon-science/Cyber-Zero) |
+
+<br/>
 
 ## 代码审计
 
@@ -52,10 +106,10 @@ https://ai.daoyivip.com/  注册可获得余额 低价模型中转站
 | HACK.SKILLS - Agent 的黑客武装 | 这是一个面向 Agent 的安全技能知识库，覆盖 Web 安全、API 安全、认证与授权、操作系统提权（Linux/Windows/macOS）、Active Directory 攻击、移动安全、二进制漏洞利用（Pwn）、逆向工程、密码学攻击、区块链与智能合约安全、AI/ML 与 LLM 安全、网络协议与横向移动、数字取证——服务于漏洞赏金、渗透测试、CTF 竞赛和授权安全研究。 | [HACK.SKILLS - Agent 的黑客武装](https://github.com/yaklang/hack-skills/blob/main/README_CN.md) |
 | Sec-Skills | 网络安全相关的大模型skill | [Sec-Skills](https://github.com/boqiqibo/Sec-Skills) |
 | secknowledge-skill | 一个为 Claude Code / Cursor 打造的安全测试专家技能（Skill），将 88,636 个真实漏洞案例、5,600+ 篇安全研究文档、150 条 AI 安全风险、OWASP LLM/ASI/WSTG和常用 200+安全测试用例浓缩为可即时调用的渗透测试知识库。 | [secknowledge-skill](https://github.com/Pa55w0rd/secknowledge-skill) |
-| SkillSemgrep | Claude Code安全扫描Skill：说句中文就能扫漏洞，基于Semgrep \| Security scanning skill for Claude Code, powered by Semgrep | [SkillSemgrep](https://github.com/KimYx0207/SkillSemgrep) |
+| SkillSemgrep | Claude Code安全扫描Skill：说句中文就能扫漏洞，基于Semgrep\| Security scanning skill for Claude Code, powered by Semgrep | [SkillSemgrep](https://github.com/KimYx0207/SkillSemgrep) |
 | threat-modeling | 原生AI自动化软件风险分析技能。采用大型语言模型（LLM）驱动、代码优先的方法，进行全面的安全风险评估、威胁建模、安全测试、渗透测试和合规性检查。 | [threat-modeling](https://github.com/fr33d3m0n/threat-modeling) |
 | pentest-skills | 告别复杂的命令行，用自然语言完成专业渗透测试。你只需描述测试目标，Claude Code 会自动选择合适的工具、执行命令、分析结果。 | [pentest-skills](https://github.com/crazyMarky/pentest-skills) |
-| AutoSongshu Agent (自动松鼠) | AutoSongshu 是一个自动化 Web 渗透测试辅助 Agent。它旨在通过大语言模型（LLM）的推理能力，结合浏览器自动化和安全扫描工具，为安全工程师提供一个“半自动驾驶”的渗透测试工作台。 | [AutoSongshu Agent](https://github.com/Cian233/AutoSongshu) |
+| AutoSongshu Agent (自动松鼠) | AutoSongshu 是一个自动化 Web 渗透测试辅助 Agent。它旨在通过大语言模型（LLM）的推理能力，结合浏览器自动化和安全扫描工具，为安全工程师提供一个"半自动驾驶"的渗透测试工作台。 | [AutoSongshu Agent](https://github.com/Cian233/AutoSongshu) |
 | ghsa-skill-builder | 让 Claude 自动将 GitHub 公开漏洞数据库和 HackerOne Bug Bounty 报告转化为代码审计/渗透测试专用的结构化安全技能（Skills） | [ghsa-skill-builder](https://github.com/yhy0/ghsa-skill-builder) |
 | pentest-skills | 自动化渗透agent skills | [pentest-skills](https://github.com/Jumbo-WJB/pentest-skills) |
 | Pentest Api Attacker | 测试针对 OWASP API 安全前十名的 API，包括发现、认证滥用和协议特定检查。 | [Pentest Api Attacker](https://clawhub.ai/0x-professor/pentest-api-attacker) |
@@ -187,7 +241,7 @@ https://ai.daoyivip.com/  注册可获得余额 低价模型中转站
 | 反蒸馏 Skill（anti-distill） | 反蒸馏 Skill：清洗你被迫写的 Skill 文件，看起来完整，核心知识留给自己。Anti-distillation for employee Skills. | [反蒸馏 Skill](https://github.com/leilei926524-tech/anti-distill) |
 | 赛博算命 Skill | 基于 Claude Code 的八字排盘与命理分析工具。通过交互式对话收集出生信息，排出四柱八字，参照九本经典命理典籍进行专业分析。 | [赛博算命 Skill](https://github.com/jinchenma94/bazi-skill) |
 | 月老 · 姻缘测算 Skills | Claude Code 姻缘测算技能 —— 赛博月老，用中华传统术数帮你算姻缘 | [月老 · 姻缘测算 Skills](https://github.com/Ming-H/yinyuan-skills) |
-| Numerologist Skills | 本项目致力于通过“工程化”手段，让大语言模型（LLM）精准理解和应用传统东方术数（如奇门遁甲、紫微斗数）。 | [Numerologist Skills](https://github.com/FANzR-arch/Numerologist_skills) |
+| Numerologist Skills | 本项目致力于通过"工程化"手段，让大语言模型（LLM）精准理解和应用传统东方术数（如奇门遁甲、紫微斗数）。 | [Numerologist Skills](https://github.com/FANzR-arch/Numerologist_skills) |
 | Master-skill | 基于佛教经典文献的汉传祖师大德教学角色生成器 | [Master-skill](https://github.com/xr843/Master-skill) |
 
 <br/>
