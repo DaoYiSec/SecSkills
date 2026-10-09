@@ -7,7 +7,7 @@ https://ai.daoyivip.com/  注册可获得余额 低价模型中转站
 # SecSkills
 收集整理渗透测试、漏洞扫描、代码审计、CTF、逆向、安全研究 等网络安全相关的Agent、Skills和MCP
 
-### 📌 分类目录 (共计 102 个)
+### 📌 分类目录 (共计 103 个)
 * [Agent 46](#agent)
 * [代码审计 12](#代码审计)
 * [渗透测试、漏洞扫描 16](#渗透测试漏洞扫描)
@@ -18,7 +18,7 @@ https://ai.daoyivip.com/  注册可获得余额 低价模型中转站
 * [移动安全 2](#移动安全)
 * [CTF 1](#ctf)
 * [红蓝对抗 1](#红蓝对抗)
-* [逆向工程 1](#逆向工程)
+* [逆向工程 2](#逆向工程)
 * [报告编写 1](#报告编写)
 * [域渗透 1](#域渗透)
 * [微信小程序审计 1](#微信小程序审计)
@@ -187,6 +187,7 @@ https://ai.daoyivip.com/  注册可获得余额 低价模型中转站
 | 名称 | 描述 | 链接 |
 |------|------|------|
 | reverse-skills | 逆向工程技能集 (Reverse Engineering Skills) ，为 Claude Code 提供逆向工程分析技能的插件市场。 | [reverse-skills](https://github.com/P4nda0s/reverse-skills) |
+| REA | 面向 AI 编程助手的本地逆向工程 CLI 与 MCP 服务，支持原生二进制、JavaScript/Electron 和 .NET 程序分析，返回证据来源与明确局限；原生深度分析需自备 Hopper、Ghidra 或 IDA。 | [REA](https://github.com/morluto/rea) |
 
 <br/>
 
